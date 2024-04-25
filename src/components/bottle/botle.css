@@ -1,0 +1,18 @@
+.bottle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid tomato;
+    padding: 1rem;
+    border-radius: 1rem;
+    align-items: center;
+}
+.purches-btn{
+    background-color: tomato;
+    color: #fff;
+    font-size: 1.25rem;
+    border: none;
+    padding: 10px 10px;
+    border-radius: 0.25rem;
+    cursor: pointer;
+}
